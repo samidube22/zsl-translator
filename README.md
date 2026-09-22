@@ -9,6 +9,6 @@ An interactive, local-first web application for real-time hand tracking and gest
 * Multimodal Accessibility: Integrated Text-to-Speech (TTS) API for real-time auditory status updates.
 
 ## Tech Stack
-* Frontend:** React, TypeScript, Vite, Tailwind CSS
+* Frontend:React, TypeScript, Vite, Tailwind CSS
 * Computer Vision: MediaPipe Hands API, WebGL
 * State & Data Management: Local Storage, Structured JSON Export
